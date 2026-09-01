@@ -1,7 +1,6 @@
 ---
 name: teach
 description: Teach a focused skill or concept through short, cumulative lessons, retrieval practice, and durable reference artifacts.
-disable-model-invocation: true
 ---
 
 # Teach
